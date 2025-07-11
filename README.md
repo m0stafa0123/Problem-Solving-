@@ -14,4 +14,16 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/m0stafa0123/Problem-Solving-/tree/master/0412-fizz-buzz) |
+## Array
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/m0stafa0123/Problem-Solving-/tree/master/0053-maximum-subarray) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/m0stafa0123/Problem-Solving-/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/m0stafa0123/Problem-Solving-/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
