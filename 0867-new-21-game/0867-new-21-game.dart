@@ -12,13 +12,13 @@ class Solution {
       dp[i] = windowSum / maxPts;
 
       if (i < k) {
-        windowSum += dp[i]; // نقدر نكمل لعب
+        windowSum += dp[i]; 
       } else {
-        result += dp[i];    // خلص اللعب، اجمع الناتج
+        result += dp[i];     
       }
 
       if (i - maxPts >= 0) {
-        windowSum -= dp[i - maxPts]; // نخصم من النافذة
+        windowSum -= dp[i - maxPts]; 
       }
     }
 
