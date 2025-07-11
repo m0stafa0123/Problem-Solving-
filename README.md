@@ -6,6 +6,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/m0stafa0123/Problem-Solving-/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/m0stafa0123/Problem-Solving-/tree/master/0412-fizz-buzz) |
+| [0867-new-21-game](https://github.com/m0stafa0123/Problem-Solving-/tree/master/0867-new-21-game) |
 ## String
 |  |
 | ------- |
@@ -26,4 +27,13 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/m0stafa0123/Problem-Solving-/tree/master/0053-maximum-subarray) |
+| [0867-new-21-game](https://github.com/m0stafa0123/Problem-Solving-/tree/master/0867-new-21-game) |
+## Sliding Window
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/m0stafa0123/Problem-Solving-/tree/master/0867-new-21-game) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/m0stafa0123/Problem-Solving-/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
