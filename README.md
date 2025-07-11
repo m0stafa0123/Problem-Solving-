@@ -18,6 +18,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/m0stafa0123/Problem-Solving-/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/m0stafa0123/Problem-Solving-/tree/master/0053-maximum-subarray) |
 ## Divide and Conquer
 |  |
@@ -36,4 +37,8 @@
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/m0stafa0123/Problem-Solving-/tree/master/0867-new-21-game) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/m0stafa0123/Problem-Solving-/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
