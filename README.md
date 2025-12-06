@@ -24,10 +24,12 @@
 | [0001-two-sum](https://github.com/m0stafa0123/Problem-Solving-/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/m0stafa0123/Problem-Solving-/tree/master/0053-maximum-subarray) |
 | [0204-count-primes](https://github.com/m0stafa0123/Problem-Solving-/tree/master/0204-count-primes) |
+| [0912-sort-an-array](https://github.com/m0stafa0123/Problem-Solving-/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/m0stafa0123/Problem-Solving-/tree/master/0053-maximum-subarray) |
+| [0912-sort-an-array](https://github.com/m0stafa0123/Problem-Solving-/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -54,4 +56,28 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/m0stafa0123/Problem-Solving-/tree/master/0204-count-primes) |
+## Sorting
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/m0stafa0123/Problem-Solving-/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/m0stafa0123/Problem-Solving-/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/m0stafa0123/Problem-Solving-/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/m0stafa0123/Problem-Solving-/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/m0stafa0123/Problem-Solving-/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/m0stafa0123/Problem-Solving-/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
